@@ -65,9 +65,9 @@ python src/main.py
 🔌 Conectando ao Supabase...
 📋 3 contato(s) encontrado(s). Iniciando envios...
 
-  ✅ Mensagem enviada para Maria Silva (5511991234567): {'zaapId': '...', 'messageId': '...'}
-  ✅ Mensagem enviada para João Pereira (5521987654321): {'zaapId': '...', 'messageId': '...'}
-  ✅ Mensagem enviada para Ana Souza (5531912345678): {'zaapId': '...', 'messageId': '...'}
+  ✅ Mensagem enviada para Geovana (552192000009): {'zaapId': '...', 'messageId': '...'}
+  ✅ Mensagem enviada para Carlos (552196600000): {'zaapId': '...', 'messageId': '...'}
+  ✅ Mensagem enviada para Paula (552196640005): {'zaapId': '...', 'messageId': '...'}
 
 📊 Resultado: 3 enviado(s) | 0 erro(s)
 ```
